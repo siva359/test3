@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage("test1.."){
       steps{
-        echo "testing..\"
+        echo "testing..p"
         sh 'hostname -i'
       }
     }
