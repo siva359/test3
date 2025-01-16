@@ -1,4 +1,7 @@
 Hello Niharika
-a + b
+a = 10
+b = 10
+a + b = 20
 a * b
 a - b
+
